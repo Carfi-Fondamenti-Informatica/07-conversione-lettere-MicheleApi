@@ -6,10 +6,12 @@ int main() {
     char n;
     char p;
     cin>>n;
-    if (funzione(n,p)){
+    if (funzione(n,p))
+    {
         cout<< p;
     }
-    else{
+    else
+    {
         cout<<"errore";
     {
     return 0;
